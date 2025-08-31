@@ -22,6 +22,6 @@ I am passionate about building solutions to real-world problems through code and
 ## Let's Connect!
 Feel free to reach out if you want to chat about **backend development**, **problem-solving**, or any tech topics!
 
-- 📧 **Email**: [gaadickle@gmail.com]
+- 📧 **Email**: [mhmudahmedgad@gmail.com]
 - 💼 **LinkedIn**: [www.linkedin.com/in/gaadickle]
 Thanks for visiting! 😊
